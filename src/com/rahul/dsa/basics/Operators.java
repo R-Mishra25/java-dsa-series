@@ -109,6 +109,7 @@ public class Operators {
         System.out.println(~a);   // -6
         System.out.println(a << 1);  // 10
         System.out.println(a >> 1);  // 2
+
     }
 
 }
