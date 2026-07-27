@@ -20,5 +20,5 @@ src/
     ├── oops/           # Encapsulation, Inheritance, Polymorphism
     ├── arrays/         # 1D/2D Arrays, Prefix Sum, Kadane's Algorithm
     └── algorithms/
-        ├── searching/  # Binary Search, Search Space Optimization
         └── sorting/    # O(N^2) and O(N log N) Sorting Algorithms
+        ├── searching/  # Binary Search, Search Space Optimization
