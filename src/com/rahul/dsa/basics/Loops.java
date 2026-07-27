@@ -1,7 +1,7 @@
 package com.rahul.dsa.basics;
 
 public class Loops {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("Loops in Java");
 
 //        sample code for loop syntax
@@ -29,6 +29,15 @@ public class Loops {
         for (int i = 0; i < 10; i++) {
             System.out.println("hello");
         }
+        for(int i = 1; i <=5; i++) {
+            for(int j = 1; j <=5; j++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    
     }
 
+
+    
 }
