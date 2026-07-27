@@ -33,3 +33,6 @@ bin/
 *.iml
 out/
 target/
+
+# Java compiled files
+*.class
